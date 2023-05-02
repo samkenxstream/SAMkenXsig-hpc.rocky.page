@@ -1,4 +1,4 @@
-# REPLACEME Wiki
+# SIG/HPC Wiki
 
 ## Links
 
