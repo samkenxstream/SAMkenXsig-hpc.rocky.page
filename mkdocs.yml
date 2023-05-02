@@ -1,13 +1,13 @@
 ---
 # Project information
-site_name: REPLACEME Wiki
-site_url: https://REPLACEME.rocky.page
+site_name: SIG/HPC Wiki
+site_url: https://SIG/HPC.rocky.page
 site_description: >-
-  REPLACEME
+  SIG/HPC Wiki
 
 # Repository
-repo_url: https://git.resf.org/REPLACEME/wiki
-repo_name: REPLACEME/wiki
+repo_url: https://git.resf.org/sig_hpc/wiki
+repo_name: sig_hpc/wiki
 edit_uri: _edit/main/docs/
 
 # Copyright
